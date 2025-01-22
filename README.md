@@ -1,5 +1,4 @@
 # vickygupta3062
-Config files for my GitHub profile.
 <!DOCTYPE html>
 <html lang="en">
 <head>
